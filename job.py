@@ -1,3 +1,3 @@
 #! /bin/env python
 a = 2
-print("coucou", a)
+print("hello python", a)
